@@ -1,0 +1,23 @@
+XipserCloud EssentialsX Configuration (Customized)
+​teleport-safety: true
+starting-balance: 0.0
+​Pengaturan Chat
+​Mengaktifkan Local Chat (Chat hanya terlihat dalam radius 50 blok)
+​local-chat:
+radius: 50
+format: '&7[{DISTANCE}]&r <{DISPLAYNAME}> {MESSAGE}'
+​kits:
+tools:
+delay: 10
+items:
+- written_book 1 title:&6&lPanduan_XipserCloud author:&bPaongdev pages:8 lore:Panduan_Resmi_Server_XipserCloud
+- 284 1 name:&6Sekop_Emas_CLAIM # Golden Shovel (284) untuk Claim
+- 294 1 name:&6Cangkul_Emas_AUTHORIZE # Golden Hoe (294) untuk Otorisasi Pukul
+- 280 1 name:&fTongkat_Pengecek_Wilayah # Stick (280) untuk cek batas claim
+initial-kit: tools
+​player-kills-drop-heads: true
+tpa-cooldown: 5
+homes:
+max-homes: 3
+EOF
+​File 6: GriefPrevention Config (GriefPrevention_config_reference.yml)
