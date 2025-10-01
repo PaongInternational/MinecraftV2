@@ -1,0 +1,14 @@
+File besar yang dihasilkan saat server berjalan. JANGAN di-commit ke Git.
+​Server Executables & Data
+​paper.jar
+ngrok
+vault/
+​Minecraft World Data
+​world/
+world_nether/
+world_the_end/
+​Configs & Logs yang sering berubah
+​eula.txt
+logs/
+cache/
+plugins/
