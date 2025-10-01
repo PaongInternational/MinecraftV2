@@ -1,0 +1,23 @@
+XipserCloud GriefPrevention Configuration (Tambahan Anti-Perang)
+​--- Claim Limits ---
+​Claim block awal untuk pemain baru
+​initial-claim-blocks: 100
+​Claim block per jam (menambah claim blocks seiring waktu)
+​blocks-accrued-per-hour: 50
+​--- Anti-PVP ---
+​Membatasi PVP di wilayah yang belum diklaim
+​pvp-enabled: false
+pvp-wilderness-disabled: false
+​Anti-Perang (PENTING untuk Survival yang adil)
+​Membatasi kemampuan pemain untuk melakukan claim/unclaim/attack
+​setelah mereka bergabung pertama kali
+​survival-mode-rules:
+no-grief-decay: true
+​Jarak klaim dari klaim lain
+​claim-minimum-distance-in-blocks: 10
+​--- Message Customization ---
+​messages:
+claim-creation: "&a[Claim] Wilayah berhasil diklaim! Gunakan cangkul emas untuk memberi otorisasi."
+pvp-disabled-in-claim: "&c[PvP] Anda tidak bisa menyerang di wilayah ini."
+EOF
+​File 7: server.properties
