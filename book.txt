@@ -1,0 +1,28 @@
+[
+{
+"text": "&6&l>> Panduan XipserCloud <<\n\n&bProject by Paongdev\n&f---------------------\n\n&aSelamat Datang di XipserCloud Survival! Server ini anti-lag dan sangat stabil untuk mabar maraton 12 jam.",
+"color": "black"
+},
+{
+"text": "&6&lFITUR SERVER\n\n&b1. Claim Wilayah:\n&fAnda mendapat Sekop Emas untuk melindungi bangunan Anda dari griefing. Gunakan Sekop Emas dan klik 2 sudut untuk claim.\n\n&b2. Player Grave:\n&fSemua item aman di peti saat Anda mati (tidak despawn!).",
+"color": "black"
+},
+{
+"text": "&6&lFITUR VOICE CHAT (WAJIB KLIEN)\n\n&4SANGAT PENTING:\n&fUntuk Voice Chat, Anda dan teman Anda &4WAJIB &fmemasang 3 Mod di Minecraft Klien (PC/Laptop 1.20.4).\n\n&b1. Fabric Loader\n&b2. Fabric API\n&b3. Simple Voice Chat Mod\n\nTombol default: &f'CAPS LOCK' atau 'V' untuk bicara.",
+"color": "black"
+},
+{
+"text": "&6&lCHAT LOKAL vs GLOBAL\n\n&bChat Biasa (Lokal):\n&fHanya terlihat oleh pemain dalam radius 50 blok (Cocok untuk Voice Chat).\n\n&bGlobal Chat:\n&fUntuk berbicara ke seluruh pemain server, ketik &a!pesan anda&f (gunakan tanda seru).",
+"color": "black"
+},
+{
+"text": "&6&lDUNGEON & ARENA\n\n&bTantangan Monster:\n&fAdmin (Paongdev) telah membuat 'Gua Harta Karun'.\n\nArena ini aktif saat dipicu, penuh tantangan monster (zombie, dll) yang terkontrol (tidak menumpuk).",
+"color": "black"
+},
+{
+"text": "&6&lHADIAH DUNGEON\n\n&fCrate hadiah bisa didapat setelah menaklukkan arena. Ada 5 Tingkat Kelangkaan:\n\n&4- Sangat Langka\n&c- Langka\n&6- Lumayan\n&e- Biasa\n&a- Dasar",
+"color": "black"
+}
+]
+EOF
+​File 5: EssentialsX Config (EssentialsX_config_reference.yml)
